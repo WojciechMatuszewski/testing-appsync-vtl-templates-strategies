@@ -1,0 +1,24 @@
+{
+  "name": "via-aws-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "types": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "16.16.0",
+    "npm": "8.16.0"
+  },
+  "devDependencies": {
+    "amplify-appsync-simulator": "2.4.1",
+    "amplify-velocity-template": "1.4.8",
+    "typescript": "4.7.4",
+    "vite": "3.0.4",
+    "vitest": "0.20.3"
+  }
+}

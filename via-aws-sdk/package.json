@@ -1,0 +1,22 @@
+{
+  "name": "via-aws-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "16.16.0",
+    "npm": "8.16.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-appsync": "3.142.0",
+    "typescript": "4.7.4",
+    "vite": "3.0.4",
+    "vitest": "0.20.3"
+  }
+}
