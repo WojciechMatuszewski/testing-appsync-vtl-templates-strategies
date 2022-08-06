@@ -4,6 +4,7 @@ Here, instead of asserting on a parsed template, we make the request to the actu
 
 ## To run the test
 
+1. Make sure you have your AWS credentials set up.
 1. Run `npm i`
 1. Run `npm run bootstrap`
 1. Run `npm run deploy`

@@ -6,6 +6,7 @@ The caveat is that to run them, you have to have most, if not all, infrastructur
 
 ## To run the test
 
+1. Make sure you have your AWS credentials set up.
 1. Run `npm i`
 1. Run `npm run bootstrap`
 1. Run `npm run deploy`
